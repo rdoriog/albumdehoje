@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>O que ouvir hoje?</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    #container {
+      text-align: center;
+    }
+
+    #btn {
+      padding: 15px 25px;
+      font-size: 20px;
+      border: none;
+      border-radius: 10px;
+      background: #000;
+      color: #fff;
+      cursor: pointer;
+    }
+
+    #album {
+      margin-top: 30px;
+      display: none;
+    }
+
+    img {
+      width: 250px;
+      height: 250px;
+      border-radius: 12px;
+      object-fit: cover;
+    }
+
+    a {
+      color: #1db954;
+      text-decoration: none;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div id="container">
+    <button id="btn">o que ouvir hoje?</button>
+
+    <div id="album">
+      <img id="capa" src="" alt="Capa do Álbum" />
+      <h2 id="titulo"></h2>
+      <p id="artista"></p>
+      <p id="ano"></p>
+      <p><a id="spotify" href="#" target="_blank">Ouvir no Spotify</a></p>
+    </div>
+  </div>
+
+  <script>
+    const albuns = [
+      {
+        titulo: "Random Access Memories",
+        artista: "Daft Punk",
+        ano: 2013,
+        capa: "https://i.scdn.co/image/ab67616d0000b2730d06c938753c41c4e1cdbb0d",
+        spotify: "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
+      },
+      {
+        titulo: "Melodrama",
+        artista: "Lorde",
+        ano: 2017,
+        capa: "https://i.scdn.co/image/ab67616d0000b2734cd7b5e2ad65379b3f73b39c",
+        spotify: "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      {
+        titulo: "Back to Black",
+        artista: "Amy Winehouse",
+        ano: 2006,
+        capa: "https://i.scdn.co/image/ab67616d0000b273c8ad9d1737dfcf9f2f8f1f8b",
+        spotify: "https://open.spotify.com/album/6I9VzXrHxO9rA9A5euc8Ak"
+      }
+    ];
+
+    const btn = document.getElementById("btn");
+    const divAlbum = document.getElementById("album");
+
+    btn.addEventListener("click", () => {
+      const escolhido = albuns[Math.floor(Math.random() * albuns.length)];
+
+      document.getElementById("capa").src = escolhido.capa;
+      document.getElementById("titulo").textContent = escolhido.titulo;
+      document.getElementById("artista").textContent = "Artista: " + escolhido.artista;
+      document.getElementById("ano").textContent = "Ano: " + escolhido.ano;
+      document.getElementById("spotify").href = escolhido.spotify;
+
+      divAlbum.style.display = "block";
+    });
+  </script>
+</body>
+</html>
