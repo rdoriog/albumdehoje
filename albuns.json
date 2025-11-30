@@ -1,0 +1,16 @@
+[
+  {
+    "titulo": "Random Access Memories",
+    "artista": "Daft Punk",
+    "ano": 2013,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2730d06c938753c41c4e1cdbb0d",
+    "spotify": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
+  },
+  {
+    "titulo": "Melodrama",
+    "artista": "Lorde",
+    "ano": 2017,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2734cd7b5e2ad65379b3f73b39c",
+    "spotify": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+  }
+]
