@@ -3,30 +3,35 @@
     "titulo": "Eye to the Telescope",
     "artista": "KT Tunstall",
     "ano": 2004,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273da2b59303b967495a8cbb22c", 
     "spotify": "https://open.spotify.com/intl-pt/album/7CX3vifIlc1MDFE2DymnS3"  
   },
   {
     "titulo": "Acoustic Extravaganza",
     "artista": "KT Tunstall",
     "ano": 2006,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273bc40f7c6c4d8b6c7c797ce07", 
     "spotify": "https://open.spotify.com/intl-pt/album/5NgfMJilxW8vo8RLFxIu0W"  
   },
   {
     "titulo": "Drastic Fantastic",
     "artista": "KT Tunstall",
     "ano": 2007,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2738cbde90d6b5153d4e8e2079c", 
     "spotify": "https://open.spotify.com/intl-pt/album/4XpXkww6Q6KLFOaFmZ6IxX"  
   },
   {
     "titulo": "Tiger Suit",
     "artista": "KT Tunstall",
     "ano": 2010,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273d7c78abaa9e5b5e348f038e9", 
     "spotify": "https://open.spotify.com/intl-pt/album/73nLuxoco6VUEboyrDuMNd"  
   },
   {
     "titulo": "Invisible Empire / Crescent Moon",
     "artista": "KT Tunstall",
     "ano": 2013,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273077cb7a5b1afde243da00fe4", 
     "spotify": "https://open.spotify.com/intl-pt/album/3JY51MpR2yTFC8RAlsuHJg"  
-  },
+  }
 ]
