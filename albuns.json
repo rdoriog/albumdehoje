@@ -410,28 +410,28 @@
     "artista": "Ed Sheeran",
     "ano": 2017,
     "capa": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
-    "spotify": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
+    "spotify": "https://open.spotify.com/intl-pt/album/3T4tUhGYeRNVUGevb0wThu"
   },
   {
     "titulo": "No.6 Collaborations Project",
     "artista": "Ed Sheeran",
     "ano": 2019,
     "capa": "https://i.scdn.co/image/ab67616d0000b27373304ce0653c7758dd94b259",
-    "spotify": "https://open.spotify.com/album/1m5gjvN8wa06L2NwIqqNHS"
+    "spotify": "https://open.spotify.com/intl-pt/album/3oIFxDIo2fwuk4lwCmFZCx"
   },
   {
     "titulo": "= (Equals)",
     "artista": "Ed Sheeran",
     "ano": 2021,
     "capa": "https://i.scdn.co/image/ab67616d0000b273ef24c3fdbf856340d55cfeb2",
-    "spotify": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+    "spotify": "https://open.spotify.com/intl-pt/album/32iAEBstCjauDhyKpGjTuq"
   },
   {
     "titulo": "- (Subtract)",
     "artista": "Ed Sheeran",
     "ano": 2023,
     "capa": "https://i.scdn.co/image/ab67616d0000b273a0aea3805ed6a87aa394c796",
-    "spotify": "https://open.spotify.com/album/5yM8M3y0HYQidEnQxE7nXr"
+    "spotify": "https://open.spotify.com/intl-pt/album/2WFFcvzM0CgLaSq4MSkyZk"
   },
   {
     "titulo": "Play",
@@ -1195,5 +1195,75 @@
     "ano": 2024,
     "capa": "https://i.scdn.co/image/ab67616d0000b27350c8a9c3ffc2065f2f2964b4",
     "spotify": "https://open.spotify.com/intl-pt/album/2ZCzxHsmRBFIEg6bmvTZwF"
+  },
+  {
+    "titulo": "Elephant",
+    "artista": "The White Stripes",
+    "ano": 2003,
+    "capa": "https://i.scdn.co/image/ab67616d0000b27325af8a8bd5d54faea1a71d9f",
+    "spotify": "https://open.spotify.com/intl-pt/album/6D9urpsOWWKtYvF6PaorGE"
+  },
+  {
+    "titulo": "Demon Days",
+    "artista": "Gorillaz",
+    "ano": 2005,
+    "capa": "https://i.scdn.co/image/ab67616d0000b27319d85a472f328a6ed9b704cf",
+    "spotify": "https://open.spotify.com/intl-pt/album/0bUTHlWbkSQysoM3VsWldT"
+  },
+  {
+    "titulo": "Let it be",
+    "artista": "The Beatles",
+    "ano": 1970,
+    "capa": "https://i.scdn.co/image/ab67616d0000b27384243a01af3c77b56fe01ab1",
+    "spotify": "https://open.spotify.com/intl-pt/album/0jTGHV5xqHPvEcwL8f6YU5"
+  },
+  {
+    "titulo": "Help!",
+    "artista": "The Beatles",
+    "ano": 1965,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273e3e3b64cea45265469d4cafa",
+    "spotify": "https://open.spotify.com/intl-pt/album/0PT5m6hwPRrpBwIHVnvbFX"
+  },
+  {
+    "titulo": "Hard Day's Night",
+    "artista": "The Beatles",
+    "ano": 1964,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273e230f303815e82a86713eedd",
+    "spotify": "https://open.spotify.com/intl-pt/album/6wCttLq0ADzkPgtRnUihLV"
+  },
+  {
+    "titulo": "Rumours",
+    "artista": "Fleetwood Mac",
+    "ano": 1974,
+    "capa": "https://i.scdn.co/image/ab67616d0000b27357df7ce0eac715cf70e519a7",
+    "spotify": "https://open.spotify.com/intl-pt/album/1bt6q2SruMsBtcerNVtpZB"
+  },
+  {
+    "titulo": "Dolores Dala Guardião do Alívio",
+    "artista": "Rico Dalassam",
+    "ano": 2021,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2734f16120329252a2324a4b05e",
+    "spotify": "https://open.spotify.com/intl-pt/album/3PHwDB7zc9GdH74QoPDGqW"
+  },
+  {
+    "titulo": "HASOS",
+    "artista": "Baco Exu do Blues",
+    "ano": 2025,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2737a50c33e8a24caabaf0f2376",
+    "spotify": "https://open.spotify.com/intl-pt/album/0T6NLOJMmjD6xyvzNswmnn"
+  },
+  {
+    "titulo": "Fetiche (EP)",
+    "artista": "Baco Exu do Blues",
+    "ano": 2024,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273d9b9733049f7d48d083d8c45",
+    "spotify": "https://open.spotify.com/intl-pt/album/6SoFWYQO8V4wNyinoIHcol"
+  },
+  {
+    "titulo": "QVVJFA?",
+    "artista": "Baco Exu do Blues",
+    "ano": 2022,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2739ba77e3ca38205c4dbfc5e8b",
+    "spotify": "https://open.spotify.com/intl-pt/album/7dSmIjXuJI4vFgIF06hQ1k"
   }
 ]
