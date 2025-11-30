@@ -446,5 +446,334 @@
     "ano": 2012,
     "capa": "https://i.scdn.co/image/ab67616d0000b273e27be4c00c9e395a38c55eb2",
     "spotify": "https://open.spotify.com/intl-pt/album/14JU5SskmcyckE5I8PY6lv"
+  },
+  {
+    "titulo": "Manners",
+    "artista": "Passion Pit",
+    "ano": 2009,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273049ea6f324aaeb08ac6a70ef",
+    "spotify": "https://open.spotify.com/intl-pt/album/6H51jH1SuzV6ca1VxW2Tmv"
+  },
+  {
+    "titulo": "Kindred",
+    "artista": "Passion Pit",
+    "ano": 2015,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273116b10104a67c9275f35df5f",
+    "spotify": "https://open.spotify.com/intl-pt/album/5vHUSuZ5xizxS3zfr3SKkq"
+  },
+  {
+    "titulo": "Tremendous sea of love",
+    "artista": "Passion Pit",
+    "ano": 2017,
+    "capa": "https://i.scdn.co/image/ab67616d00001e0257eb16d577c3ccc6e683645a",
+    "spotify": "https://open.spotify.com/intl-pt/album/2UeAEO0Aa0gciG3rsvU11D"
+  },
+  {
+    "titulo": "Lost in New York",
+    "artista": "Penguin Prision",
+    "ano": 2015,
+    "capa": "https://i.scdn.co/image/ab67616d00001e0232156e1e88d1bec097a88c79",
+    "spotify": "https://open.spotify.com/intl-pt/album/6rWytdfc3Z7bRE0aa4XBO4"
+  },
+  {
+    "titulo": "The night is young",
+    "artista": "The 2 Bears",
+    "ano": 2014,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2737729b0d9a91de00856c6d81e",
+    "spotify": "https://open.spotify.com/intl-pt/album/30zCWpQv7uwfBlQ9UjkqLb"
+  },
+  {
+    "titulo": "Feline",
+    "artista": "Ella Eyre",
+    "ano": 2015,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273b429c3569bbc5a5037615357",
+    "spotify": "https://open.spotify.com/intl-pt/album/3LfVVimEZr5YefjHZvlDzP"
+  },
+  {
+    "titulo": "Everything, in time",
+    "artista": "Ella Eyre",
+    "ano": 2025,
+    "capa": "https://i.scdn.co/image/ab67616d00001e0259156cc9af6724214186e871",
+    "spotify": "https://open.spotify.com/intl-pt/album/5QknArSibMONi8qaAWn4OQ"
+  },
+  {
+    "titulo": "Fall to grace",
+    "artista": "Paloma Faith",
+    "ano": 2012,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273cf6b5c8dab70818f80c11a5c",
+    "spotify": "https://open.spotify.com/intl-pt/album/3kWgBxtkD8ZJ9Xu84xrhWj"
+  },
+  {
+    "titulo": "A perfect contradiction",
+    "artista": "Paloma Faith",
+    "ano": 2014,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273c7286872440dd015077f1333",
+    "spotify": "https://open.spotify.com/intl-pt/album/3jRG3qOfsSSW3SBdeBiIfC"
+  },
+  {
+    "titulo": "Flamingo",
+    "artista": "Brandon Flowers",
+    "ano": 2010,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273a9c9e699b0036aca2ee858a3",
+    "spotify": "https://open.spotify.com/intl-pt/album/4KPcNR8nJkhzG4YVhd9R3j"
+  },
+  {
+    "titulo": "The desired effect",
+    "artista": "Brandon Flowers",
+    "ano": 2015,
+    "capa": "https://i.scdn.co/image/ab67616d0000b27344ecd0a80c41bc3b0e793aa5",
+    "spotify": "https://open.spotify.com/intl-pt/album/0yCqicy5tGkPiB6gUZCRy4"
+  },
+  {
+    "titulo": "Talking is hard",
+    "artista": "Walk the moon",
+    "ano": 2014,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273e4653224c093f358eb660800",
+    "spotify": "https://open.spotify.com/intl-pt/album/3mNoFlD1wsoXfkljfFzExT"
+  },
+  {
+    "titulo": "ORA",
+    "artista": "Rita Ora",
+    "ano": 2012,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2737ec991cadbf0ee8a382a8b81",
+    "spotify": "https://open.spotify.com/intl-pt/album/3wVudWLcF1D7jK5kTj6hlA"
+  },
+  {
+    "titulo": "Phoenix",
+    "artista": "Rita Ora",
+    "ano": 2018,
+    "capa": "https://i.scdn.co/image/ab67616d0000b27325c73acf4e8ce0f4ead66ca4",
+    "spotify": "https://open.spotify.com/intl-pt/album/6Vn8F3hERVHYYz5RfKmsAN"
+  },
+  {
+    "titulo": "You & I",
+    "artista": "Rita Ora",
+    "ano": 2024,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2733a929daf339e9f58a2d3b75a",
+    "spotify": "https://open.spotify.com/intl-pt/album/0lY3tmonYCBxbviBSKczIX"
+  },
+  {
+    "titulo": "Oh Wonder",
+    "artista": "Oh Wonder",
+    "ano": 2015,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2737cc94e776ebb63dd08c8422c",
+    "spotify": "https://open.spotify.com/intl-pt/album/37ABUtLPqktcopsBJ7jmXT"
+  },
+  {
+    "titulo": "19",
+    "artista": "Adele",
+    "ano": 2008,
+    "capa": "https://i.scdn.co/image/ab67616d0000b27362e62cf225b72fca8d765168",
+    "spotify": "https://open.spotify.com/intl-pt/album/59ULskOkBMij4zL8pS7mi0"
+  },
+  {
+    "titulo": "21",
+    "artista": "Adele",
+    "ano": 2011,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2732118bf9b198b05a95ded6300",
+    "spotify": "https://open.spotify.com/intl-pt/album/0Lg1uZvI312TPqxNWShFXL"
+  },
+  {
+    "titulo": "25",
+    "artista": "Adele",
+    "ano": 2015,
+    "capa": "https://i.scdn.co/image/ab67616d0000b27347ce408fb4926d69da6713c2",
+    "spotify": "https://open.spotify.com/intl-pt/album/3AvPX1B1HiFROvYjLb5Qwi"
+  },
+  {
+    "titulo": "30",
+    "artista": "Adele",
+    "ano": 2021,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273c6b577e4c4a6d326354a89f7",
+    "spotify": "https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa"
+  },
+  {
+    "titulo": "Origin of Symmetry",
+    "artista": "Muse",
+    "ano": 2001,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273a9e6856251d6c4b13167924a",
+    "spotify": "https://open.spotify.com/intl-pt/album/1Dh27pjT3IEdiRG9Se5uQn"
+  },
+  {
+    "titulo": "Absolution",
+    "artista": "Muse",
+    "ano": 2003,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2733303a842ee1bc0b23204333d",
+    "spotify": "https://open.spotify.com/intl-pt/album/2Eq6RyxCm7qEAF2YLOxa4s"
+  },
+  {
+    "titulo": "Black Holes and Revelations",
+    "artista": "Muse",
+    "ano": 2006,
+    "capa": "https://i.scdn.co/image/ab67616d0000b27328933b808bfb4cbbd0385400",
+    "spotify": "https://open.spotify.com/intl-pt/album/0lw68yx3MhKflWFqCsGkIs"
+  },
+  {
+    "titulo": "The Resistance",
+    "artista": "Muse",
+    "ano": 2009,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9",
+    "spotify": "https://open.spotify.com/intl-pt/album/0eFHYz8NmK75zSplL5qlfM"
+  },
+  {
+    "titulo": "The 2nd Law",
+    "artista": "Muse",
+    "ano": 2012,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273fc192c54d1823a04ffb6c8c9",
+    "spotify": "https://open.spotify.com/intl-pt/album/3KuXEGcqLcnEYWnn3OEGy0"
+  },
+  {
+    "titulo": "Drones",
+    "artista": "Muse",
+    "ano": 2015,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273808846f0223d97d5963c420d",
+    "spotify": "https://open.spotify.com/intl-pt/album/2wart5Qjnvx1fd7LPdQxgJ"
+  },
+  {
+    "titulo": "Simulation Theory",
+    "artista": "Muse",
+    "ano": 2018,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2734cb163c1d111f77307c842b6",
+    "spotify": "https://open.spotify.com/intl-pt/album/5OZgDtx180ZZPMpm36J2zC"
+  },
+  {
+    "titulo": "Will of the People",
+    "artista": "Muse",
+    "ano": 2022,
+    "capa": "https://i.scdn.co/image/ab67616d0000b27342c90d53e8c596285e8f59ff",
+    "spotify": "https://open.spotify.com/intl-pt/album/5qK8S5JRF8au6adIVtBsmk"
+  },
+  {
+    "titulo": "The Fame",
+    "artista": "Lady Gaga",
+    "ano": 2008,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273613aaa3ae566d9f36008aed0",
+    "spotify": "https://open.spotify.com/intl-pt/album/1qwlxZTNLe1jq3b0iidlue"
+  },
+  {
+    "titulo": "The Fame Monster",
+    "artista": "Lady Gaga",
+    "ano": 2009,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273eb8bcd7eda9787adb4a977b1",
+    "spotify": "https://open.spotify.com/intl-pt/album/6rePArBMb5nLWEaY9aQqL4"
+  },
+  {
+    "titulo": "Born This Way",
+    "artista": "Lady Gaga",
+    "ano": 2011,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273653b2badb4af1b01142a490f",
+    "spotify": "https://open.spotify.com/intl-pt/album/6LY3AerY6KNGOPsNPL63Kk"
+  },
+  {
+    "titulo": "ARTPOP",
+    "artista": "Lady Gaga",
+    "ano": 2013,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2737da123c944790bfab54b2522",
+    "spotify": "https://open.spotify.com/intl-pt/album/2eRJUtI7nXrQ5uYQ7tzTo9"
+  },
+  {
+    "titulo": "Joanne",
+    "artista": "Lady Gaga",
+    "ano": 2016,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273cf63edcbc82f7cd35f527239",
+    "spotify": "https://open.spotify.com/intl-pt/album/2ZUwFxlWo0gwTsvZ6L4Meh"
+  },
+  {
+    "titulo": "Chromatica",
+    "artista": "Lady Gaga",
+    "ano": 2020,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2736040effba89b9b00a6f6743a",
+    "spotify": "https://open.spotify.com/intl-pt/album/05c49JgPmL4Uz2ZeqRx5SP"
+  },
+  {
+    "titulo": "Mayhem",
+    "artista": "Lady Gaga",
+    "ano": 2025,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273b0860cf0a98e09663c82290c",
+    "spotify": "https://open.spotify.com/intl-pt/album/3ARwSvDQv2OHYnLeDC3Lxi"
+  },
+  {
+    "titulo": "Olly Murs",
+    "artista": "Olly Murs",
+    "ano": 2010,
+    "capa": "https://i.scdn.co/image/ab67616d0000b27312f81e687a629815c3b7c0e8",
+    "spotify": "https://open.spotify.com/intl-pt/album/17gXGgVOk1RpPduIpeD5Yq"
+  },
+  {
+    "titulo": "In Case You Didn’t Know",
+    "artista": "Olly Murs",
+    "ano": 2011,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273ff2057b7343d2233451ff8e7",
+    "spotify": "https://open.spotify.com/intl-pt/album/2OvZ8JCShhvxNkptwoGjve"
+  },
+  {
+    "titulo": "Right Place Right Time",
+    "artista": "Olly Murs",
+    "ano": 2012,
+    "capa": "https://i.scdn.co/image/ab67616d0000b27383a1b851143e6adaf56db39b",
+    "spotify": "https://open.spotify.com/intl-pt/album/5kU9rWhYr4MmPmaGYP5z4v"
+  },
+  {
+    "titulo": "Never Been Better",
+    "artista": "Olly Murs",
+    "ano": 2014,
+    "capa": "https://i.scdn.co/image/ab67616d0000b27328a9032c5bdec6b0c0e9e1ba",
+    "spotify": "https://open.spotify.com/intl-pt/album/41QyJYx6N181E3QxWpC2FW"
+  },
+  {
+    "titulo": "24 HRS",
+    "artista": "Olly Murs",
+    "ano": 2016,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273b3661a089bc89defa235def3",
+    "spotify": "https://open.spotify.com/intl-pt/album/3EeOsvEKHv6dyG2x2XZJ6Q"
+  },
+  {
+    "titulo": "You Know I Know",
+    "artista": "Olly Murs",
+    "ano": 2018,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273c2652842c2eab6283800f0cf",
+    "spotify": "https://open.spotify.com/intl-pt/album/6Z6lqEBbZq9Rbf7aYRxAZP"
+  },
+  {
+    "titulo": "Marry Me",
+    "artista": "Olly Murs",
+    "ano": 2022,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273d612d60f7b8f75fc07d815e7",
+    "spotify": "https://open.spotify.com/intl-pt/album/5VtXT9YEdsQxIXhgfLsQdT"
+  },
+  {
+    "titulo": "Knees Up",
+    "artista": "Olly Murs",
+    "ano": 2025,
+    "capa": "https://i.scdn.co/image/ab67616d00001e02e5a4280a90d4169220749b12",
+    "spotify": "https://open.spotify.com/intl-pt/album/6EJwhWQ3s4ddYhZZygjYLK"
+  },
+  {
+    "titulo": "Fixin to Thrill",
+    "artista": "Dragonette",
+    "ano": 2009,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2732d5e74c82588e61970b71332",
+    "spotify": "https://open.spotify.com/intl-pt/album/55CIgswGk49pbt3cKHdZR3"
+  },
+  {
+    "titulo": "Body Parts",
+    "artista": "Dragonette",
+    "ano": 2012,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2734930e35d995f105ad8b68714",
+    "spotify": "https://open.spotify.com/intl-pt/album/4sOxK70vrff2rF4G37tD7N"
+  },
+  {
+    "titulo": "Revelation",
+    "artista": "Dragonette",
+    "ano": 2025,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273c4d3f5ed3a7a2f3e8854e76c",
+    "spotify": "https://open.spotify.com/intl-pt/album/3My0taql4cY6yHpY1bZILJ"
+  },
+  {
+    "titulo": "Revelation",
+    "artista": "Dragonette",
+    "ano": 2025,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273c4d3f5ed3a7a2f3e8854e76c",
+    "spotify": "https://open.spotify.com/intl-pt/album/3My0taql4cY6yHpY1bZILJ"
   }
 ]
