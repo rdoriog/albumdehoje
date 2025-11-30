@@ -1,16 +1,121 @@
 [
   {
-    "titulo": "Random Access Memories",
-    "artista": "Daft Punk",
-    "ano": 2013,
-    "capa": "https://i.scdn.co/image/ab67616d0000b2730d06c938753c41c4e1cdbb0d",
-    "spotify": "https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa"
+    "titulo": "Eye to the Telescope",
+    "artista": "KT Tunstall",
+    "ano": 2004,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273...", 
+    "spotify": "https://open.spotify.com/album/..."  
   },
   {
-    "titulo": "Melodrama",
-    "artista": "Lorde",
+    "titulo": "Drastic Fantastic",
+    "artista": "KT Tunstall",
+    "ano": 2007,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273...", 
+    "spotify": "https://open.spotify.com/album/..."  
+  },
+  {
+    "titulo": "KIN",
+    "artista": "KT Tunstall",
+    "ano": 2016,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273...", 
+    "spotify": "https://open.spotify.com/album/..."  
+  },
+  {
+    "titulo": "NUT",
+    "artista": "KT Tunstall",
+    "ano": 2022,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273...", 
+    "spotify": "https://open.spotify.com/album/..."  
+  },
+  {
+    "titulo": "One of the Boys",
+    "artista": "Katy Perry",
+    "ano": 2008,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273...", 
+    "spotify": "https://open.spotify.com/album/..."  
+  },
+  {
+    "titulo": "Teenage Dream",
+    "artista": "Katy Perry",
+    "ano": 2010,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273...", 
+    "spotify": "https://open.spotify.com/album/..."  
+  },
+  {
+    "titulo": "PRISM",
+    "artista": "Katy Perry",
+    "ano": 2013,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273...", 
+    "spotify": "https://open.spotify.com/album/..."  
+  },
+  {
+    "titulo": "Witness",
+    "artista": "Katy Perry",
     "ano": 2017,
-    "capa": "https://i.scdn.co/image/ab67616d0000b2734cd7b5e2ad65379b3f73b39c",
-    "spotify": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+    "capa": "https://i.scdn.co/image/ab67616d0000b273...", 
+    "spotify": "https://open.spotify.com/album/..."  
+  },
+  {
+    "titulo": "Smile",
+    "artista": "Katy Perry",
+    "ano": 2020,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273...", 
+    "spotify": "https://open.spotify.com/album/..."  
+  },
+  {
+    "titulo": "143",
+    "artista": "Katy Perry",
+    "ano": 2024,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273...", 
+    "spotify": "https://open.spotify.com/album/..."  
+  },
+  {
+    "titulo": "Hot Fuss",
+    "artista": "The Killers",
+    "ano": 2004,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273...", 
+    "spotify": "https://open.spotify.com/album/..."  
+  },
+  {
+    "titulo": "Sam's Town",
+    "artista": "The Killers",
+    "ano": 2006,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273...", 
+    "spotify": "https://open.spotify.com/album/..."  
+  },
+  {
+    "titulo": "Day & Age",
+    "artista": "The Killers",
+    "ano": 2008,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273...", 
+    "spotify": "https://open.spotify.com/album/..."  
+  },
+  {
+    "titulo": "Battle Born",
+    "artista": "The Killers",
+    "ano": 2012,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273...", 
+    "spotify": "https://open.spotify.com/album/..."  
+  },
+  {
+    "titulo": "Wonderful Wonderful",
+    "artista": "The Killers",
+    "ano": 2017,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273...", 
+    "spotify": "https://open.spotify.com/album/..."  
+  },
+  {
+    "titulo": "Imploding the Mirage",
+    "artista": "The Killers",
+    "ano": 2020,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273...", 
+    "spotify": "https://open.spotify.com/album/..."  
+  },
+  {
+    "titulo": "Pressure Machine",
+    "artista": "The Killers",
+    "ano": 2021,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273...", 
+    "spotify": "https://open.spotify.com/album/..."  
   }
 ]
