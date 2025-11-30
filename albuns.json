@@ -189,10 +189,73 @@
     "spotify": "https://open.spotify.com/album/5fa6oWFXuvaVkY49mfOsRd"
   },
   {
-    "titulo": "Ancient Dreams in a Modern Land",
+    "titulo": "Princess of Power (Deluxe)",
     "artista": "MARINA",
     "ano": 2025,
     "capa": "https://i.scdn.co/image/ab67616d00001e02b35b1c4c5f6ed67295514ef9",
     "spotify": "https://open.spotify.com/intl-pt/album/7KKQfFKPruJ3lHVVtwGuo7"
+  },
+  {
+    "titulo": "Standing in the way of control",
+    "artista": "Gossip",
+    "ano": 2005,
+    "capa": "https://i.scdn.co/image/ab67616d0000b27338aedb5f40b1397bef90226f",
+    "spotify": "https://open.spotify.com/intl-pt/album/4JRTqlBGtuMjXNaK3macIW"
+  },
+  {
+    "titulo": "Music for men",
+    "artista": "Gossip",
+    "ano": 2009,
+    "capa": "https://i.scdn.co/image/ab67616d0000b27338aedb5f40b1397bef90226f",
+    "spotify": "https://open.spotify.com/intl-pt/album/1GB8gZTSdbiup5FzxNknRo"
+  },
+  {
+    "titulo": "A joyful noise",
+    "artista": "Gossip",
+    "ano": 2012,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273ede335da4d31d618782bd10e",
+    "spotify": "https://open.spotify.com/intl-pt/album/6AKGyIfiwcptAUUzLDB0Gd"
+  },
+  {
+    "titulo": "Real Power",
+    "artista": "Gossip",
+    "ano": 2024,
+    "capa": "https://i.scdn.co/image/ab67616d00001e02422fcb3fbfdf62a9ced8a882",
+    "spotify": "https://open.spotify.com/intl-pt/album/5NkbIgGVPVGDuR5PaJNGMF"
+  },
+  {
+    "titulo": "For your entertainment",
+    "artista": "Adam Lambert",
+    "ano": 2009,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273fe0d9870d6d8e18c3a00c658",
+    "spotify": "https://open.spotify.com/intl-pt/album/0cUNjl7p6LYZJkKXJWzqP0"
+  },
+  {
+    "titulo": "Tresspassing",
+    "artista": "Adam Lambert",
+    "ano": 2012,
+    "capa": "https://i.scdn.co/image/ab67616d0000b27321bfa0dad69b34c19cc34afb",
+    "spotify": "https://open.spotify.com/intl-pt/album/4mKnhWm5EZeZUfoUYUwT1h"
+  },
+  {
+    "titulo": "The Original High",
+    "artista": "Adam Lambert",
+    "ano": 2015,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2737700824398c798dd7c88142b",
+    "spotify": "https://open.spotify.com/intl-pt/album/6hN2y18fg4KVGMaltxfdXZ"
+  },
+  {
+    "titulo": "Velvet",
+    "artista": "Adam Lambert",
+    "ano": 2020,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273e8523e7781cf313fc080da5c",
+    "spotify": "https://open.spotify.com/intl-pt/album/3x2eQlp6uoy5E5uuI1zcdg"
+  },
+  {
+    "titulo": "High Drama",
+    "artista": "Adam Lambert",
+    "ano": 2023,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273968133fe126df75c1efc1817",
+    "spotify": "https://open.spotify.com/intl-pt/album/14DtdbXHjcYfNiSHEEVf1W"
   }
 ]
