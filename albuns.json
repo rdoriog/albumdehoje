@@ -155,21 +155,21 @@
   },
   {
     "titulo": "The Family Jewels",
-    "artista": "MARINA",
+    "artista": "Marina & the Diamonds",
     "ano": 2009,
     "capa": "https://i.scdn.co/image/ab67616d0000b27336f6918170afcb7fe66130e5",
     "spotify": "https://open.spotify.com/intl-pt/album/7vOnmHY4Ip2hL8iPfHIRBA"
   },
   {
     "titulo": "Electra Heart",
-    "artista": "MARINA",
+    "artista": "Marina & the Diamonds",
     "ano": 2012,
     "capa": "https://i.scdn.co/image/ab67616d00001e02203e4c6a048df02a21cdd813",
     "spotify": "https://open.spotify.com/album/4iJ8dp0xkEhpy7aox8icUd"
   },
   {
     "titulo": "Froot",
-    "artista": "MARINA",
+    "artista": "Marina & the Diamonds",
     "ano": 2015,
     "capa": "https://i.scdn.co/image/ab67616d0000b2731bbd2979b9ea26e0b546e5e5",
     "spotify": "https://open.spotify.com/album/3TGFADcugVPngfF7dtiqqY"
@@ -775,5 +775,250 @@
     "ano": 2025,
     "capa": "https://i.scdn.co/image/ab67616d0000b273c4d3f5ed3a7a2f3e8854e76c",
     "spotify": "https://open.spotify.com/intl-pt/album/3My0taql4cY6yHpY1bZILJ"
-  }
+  },
+  {
+    "titulo": "Made of Bricks",
+    "artista": "Kate Nash",
+    "ano": 2007,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273a02bff50b1877f1099a70670",
+    "spotify": "https://open.spotify.com/intl-pt/album/2gDCBa5P6SnAaY0cadefQS"
+  },
+  {
+    "titulo": "My Best Friend Is You",
+    "artista": "Kate Nash",
+    "ano": 2010,
+    "capa": "https://i.scdn.co/image/ab67616d00001e02f5a7c093f871ba5efc8eecbd",
+    "spotify": "https://open.spotify.com/intl-pt/album/3jihHgHiUNXEjboel1TgaX"
+  },
+  {
+    "titulo": "Girl Talk",
+    "artista": "Kate Nash",
+    "ano": 2013,
+    "capa": "https://i.scdn.co/image/ab67616d00001e027199707468aca8e4f194f53c",
+    "spotify": "https://open.spotify.com/intl-pt/album/0DYV8xYI75q3DtJXwkBaqu"
+  },
+  {
+    "titulo": "Yesterday Was Forever",
+    "artista": "Kate Nash",
+    "ano": 2018,
+    "capa": "https://i.scdn.co/image/ab67616d00001e0228b4940a8cd10e9078f35fcd",
+    "spotify": "https://open.spotify.com/intl-pt/album/4ryc4MvHAAJvTuc8wfTC7H"
+  },
+  {
+    "titulo": "9 sad symphonies",
+    "artista": "Kate Nash",
+    "ano": 2024,
+    "capa": "https://i.scdn.co/image/ab67616d00001e028c96a6e35a9a7eed8e9f1ba6",
+    "spotify": "https://open.spotify.com/intl-pt/album/56CrmLSJmxL6zDB02oAjQF"
+  },
+    {
+    "titulo": "Thinking in textures",
+    "artista": "Chet Faker",
+    "ano": 2012,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273f4ac9b72564b9082d61d50ec",
+    "spotify": "https://open.spotify.com/intl-pt/album/1UW1oXBj1mbUOjenKc9o6z"
+  },
+  {
+    "titulo": "Built on glass",
+    "artista": "Chet Faker",
+    "ano": 2014,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273adaa2007dffc30492c87bba4",
+    "spotify": "https://open.spotify.com/intl-pt/album/2lKbr47iZyXo44V4CEEUaK"
+  },
+  {
+    "titulo": "Hotel Surrender",
+    "artista": "Chet Faker",
+    "ano": 2021,
+    "capa": "https://i.scdn.co/image/ab67616d0000b27337608c354c36a4a3e12d548c",
+    "spotify": "https://open.spotify.com/intl-pt/album/1EvJl2nSEPBGnu0XqKAqbq"
+  },
+  {
+    "titulo": "Communion",
+    "artista": "Years & Years",
+    "ano": 2015,
+    "capa": "https://i.scdn.co/image/ab67616d0000b27375c5155be757f8d8e15aa0c0",
+    "spotify": "https://open.spotify.com/intl-pt/album/0bWYlK9rRmIB68icHx9PNR"
+  },
+  {
+    "titulo": "Palo Santo",
+    "artista": "Years & Years",
+    "ano": 2019,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2739f1764fbbd2ddd22efbf1e8c",
+    "spotify": "https://open.spotify.com/intl-pt/album/1OUGPngAngAxjliRlrAc6v"
+  },
+  {
+    "titulo": "Palo Santo",
+    "artista": "Olly Alexander",
+    "ano": 2022,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273d5bc8820acb21f8914e70fda",
+    "spotify": "https://open.spotify.com/intl-pt/album/5JnUGpLYBxqEDuot5vlfSC"
+  },
+  {
+    "titulo": "Lady Leste",
+    "artista": "Gloria Groove",
+    "ano": 2022,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2731eb78f9f52e7ae1cf3282b42",
+    "spotify": "https://open.spotify.com/intl-pt/album/4Qq4x0tJGWEFZt6jnvOKrQ"
+  },
+  {
+    "titulo": "Affair (EP)",
+    "artista": "Gloria Groove",
+    "ano": 2020,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2738683395d2fb1f230efafb682",
+    "spotify": "https://open.spotify.com/intl-pt/album/1uyLEC5sd3Mdyvu0iCvirh"
+  },
+  {
+    "titulo": "No hard feelings (EP)",
+    "artista": "Leigh-Anne",
+    "ano": 2024,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2738f6202b155640549e17b51b9",
+    "spotify": "https://open.spotify.com/intl-pt/album/5FLuHwbit7X3hXqXB1j6Mb"
+  },
+  {
+    "titulo": "Back to Black",
+    "artista": "Amy Winehouse",
+    "ano": 2006,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2738f52f321140e4a76ea720c52",
+    "spotify": "https://open.spotify.com/intl-pt/album/0E4xv5gPjykrwBgBZzI8XG"
+  },
+  {
+    "titulo": "Lioness: Hidden Treasures",
+    "artista": "Amy Winehouse",
+    "ano": 2011,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2734c896e873306c17847c254e9",
+    "spotify": "https://open.spotify.com/intl-pt/album/4xdRjOhY9NHmMpI7U3e2c3"
+  },
+  {
+    "titulo": "Made in the dark",
+    "artista": "Hot chip",
+    "ano": 2008,
+    "capa": "https://i.scdn.co/image/ab67616d00001e02e2b82066b6e43424650667bd",
+    "spotify": "https://open.spotify.com/intl-pt/album/2fZWcwbfKryf2d24wQ4LXQ"
+  },
+  {
+    "titulo": "One life stand",
+    "artista": "Hot chip",
+    "ano": 2010,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273ed717b9fe8ead59ec2f2e600",
+    "spotify": "https://open.spotify.com/intl-pt/album/4g9B6VXmdHhmqYhVHIXsbc"
+  },
+  {
+    "titulo": "In our heads",
+    "artista": "Hot chip",
+    "ano": 2012,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2738d79c9e5db0b5201cf51abd1",
+    "spotify": "https://open.spotify.com/intl-pt/album/5GDNKEug3ME9sCAtCU0vu7"
+  },
+  {
+    "titulo": "Oracular Spectacular",
+    "artista": "MGMT",
+    "ano": 2007,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2738b32b139981e79f2ebe005eb",
+    "spotify": "https://open.spotify.com/intl-pt/album/6mm1Skz3JE6AXneya9Nyiv"
+  },
+  {
+    "titulo": "Congratulations",
+    "artista": "MGMT",
+    "ano": 2010,
+    "capa": "https://i.scdn.co/image/ab67616d00001e02a38f4c1b8f53a2f792ffb561",
+    "spotify": "https://open.spotify.com/intl-pt/album/3HA1Ru1gEAgaxTywkJmBOL"
+  },
+  {
+    "titulo": "Walking on a dream",
+    "artista": "Empire of the sun",
+    "ano": 2009,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2731764a4e742fe4c69e4d16316",
+    "spotify": "https://open.spotify.com/intl-pt/album/1GoqBRUPZzBKvMKZxSQ1mp"
+  },
+  {
+    "titulo": "Ask that god",
+    "artista": "Empire of the sun",
+    "ano": 2025,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273539b85bf093856207373e138",
+    "spotify": "https://open.spotify.com/intl-pt/album/6CPodMnqYXqbfZ9Rw8CO1e"
+  },
+  {
+    "titulo": "Juno - Music from the motion picture",
+    "artista": "Vários interpretes",
+    "ano": 2007,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273f9fd1589487315c55b0a1280",
+    "spotify": "https://open.spotify.com/intl-pt/album/3Dm3Kc5oOFtesVJe5TF1HG"
+  },
+  {
+    "titulo": "The lockdown sessions",
+    "artista": "Elton John",
+    "ano": 2021,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273523458c391fe8180a19a1069",
+    "spotify": "https://open.spotify.com/intl-pt/album/3O52AkvWUCF7MfkfLfnobb"
+  },
+  {
+    "titulo": "Lady Wood",
+    "artista": "Tove Lo",
+    "ano": 2016,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2739f0c014998bac13d3181474c",
+    "spotify": "https://open.spotify.com/intl-pt/album/1tuekzsMZQOuiMejKP6t2Y"
+  },
+  {
+    "titulo": "Sunshine Kitty",
+    "artista": "Tove Lo",
+    "ano": 2019,
+    "capa": "https://i.scdn.co/image/ab67616d0000b27355520a551691cdaeec6100eb",
+    "spotify": "https://open.spotify.com/intl-pt/album/5kaCqETtik8oE7M9D8wxrW"
+  },
+  {
+    "titulo": "Dirt Femme",
+    "artista": "Tove Lo",
+    "ano": 2022,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273aeb431774ee02fb6b7a9fea3",
+    "spotify": "https://open.spotify.com/intl-pt/album/0HO9NtwyP7ZqB1jZ70MJL6"
+  },
+  {
+    "titulo": "Body Talk",
+    "artista": "Robyn",
+    "ano": 2010,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273b4375effb23372cc8cff5045",
+    "spotify": "https://open.spotify.com/intl-pt/album/0le9TO3kU69m6iWHTjNs9Y"
+  },
+  {
+    "titulo": "Honey",
+    "artista": "Robyn",
+    "ano": 2018,
+    "capa": "https://i.scdn.co/image/ab67616d00001e02fbf9a966181d8e527f34077f",
+    "spotify": "https://open.spotify.com/intl-pt/album/0CQ68SLY0B5e6L1rn8jfkc"
+  },
+  {
+    "titulo": "Do it again (EP)",
+    "artista": "Röyksopp & Robyn",
+    "ano": 2014,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273d9a82339f6acbcb6a07a24f5",
+    "spotify": "https://open.spotify.com/intl-pt/album/3l71oQhghX2VrheAWsEh5B"
+  },
+  {
+    "titulo": "Dualipa",
+    "artista": "Dualipa",
+    "ano": 2017,
+    "capa": "https://i.scdn.co/image/ab67616d0000b27333a05856381d7dc016fdd3c8",
+    "spotify": "https://open.spotify.com/intl-pt/album/01sfgrNbnnPUEyz6GZYlt9"
+  },
+  {
+    "titulo": "Future Nostalgia",
+    "artista": "Dualipa",
+    "ano": 2020,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273bb1e7090e662ce98b0e1b4c0",
+    "spotify": "https://open.spotify.com/intl-pt/album/5lKlFlReHOLShQKyRv6AL9"
+  },
+  {
+    "titulo": "Radical Optimism",
+    "artista": "Dualipa",
+    "ano": 2024,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273778c1e4660aa23f6728b32a1",
+    "spotify": "https://open.spotify.com/intl-pt/album/1Mo92916G2mmG7ajpmSVrc"
+  },
+  {
+    "titulo": "Late night feelings",
+    "artista": "Mark Ronson",
+    "ano": 2019,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273de087ae2924d2c1654f60d74",
+    "spotify": "https://open.spotify.com/intl-pt/album/6vdLdzihSWxV8FgWU2GSvA"
+  }  
 ]
