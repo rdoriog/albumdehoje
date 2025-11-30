@@ -33,5 +33,166 @@
     "ano": 2013,
     "capa": "https://i.scdn.co/image/ab67616d0000b273077cb7a5b1afde243da00fe4", 
     "spotify": "https://open.spotify.com/intl-pt/album/3JY51MpR2yTFC8RAlsuHJg"  
+  },
+  {
+    "titulo": "Kin",
+    "artista": "KT Tunstall",
+    "ano": 2016,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2736b0c95a9e9a9a5ab0ba1fb43", 
+    "spotify": "https://open.spotify.com/intl-pt/album/3Nor6rLg9d4Whkcy8Fu9Uo"  
+  },
+  {
+    "titulo": "Wax",
+    "artista": "KT Tunstall",
+    "ano": 2018,
+    "capa": "https://i.scdn.co/image/ab67616d0000b27388ff070f875978e7a86adb6c", 
+    "spotify": "https://open.spotify.com/intl-pt/album/2TarpCqSX9pwDrrx0KtqS6"  
+  },
+  {
+    "titulo": "Nut",
+    "artista": "KT Tunstall",
+    "ano": 2022,
+    "capa": "https://i.scdn.co/image/ab67616d00001e0239c955aee24819404c8f1900", 
+    "spotify": "https://open.spotify.com/intl-pt/album/4V3LgPfIIw3y0YrlfBJ1DK"  
+  },
+  {
+    "titulo": "Face to Face",
+    "artista": "Suzi Quatro & KT Tunstall",
+    "ano": 2023,
+    "capa": "https://i.scdn.co/image/ab67616d00001e027848f1850c42b59dcb7e45b4", 
+    "spotify": "https://open.spotify.com/intl-pt/album/7qoAFBhUi4h62udoeVXZnF"  
+  },
+  {
+    "titulo": "One of the boys",
+    "artista": "Katy Perry",
+    "ano": 2008,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2739aad89c4734cd44cecaebf71", 
+    "spotify": "https://open.spotify.com/intl-pt/album/3xshXXIfhAKRQ2995VJ7kZ"  
+  },
+  {
+    "titulo": "Teenage Dream - The complete confection",
+    "artista": "Katy Perry",
+    "ano": 2012,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616", 
+    "spotify": "https://open.spotify.com/intl-pt/album/5BvgP623rtvlc0HDcpzquz"  
+  },
+  {
+    "titulo": "PRISM",
+    "artista": "Katy Perry",
+    "ano": 2013,
+    "capa": "https://i.scdn.co/image/ab67616d0000b27347f930accd8ac01686401fa2", 
+    "spotify": "https://open.spotify.com/intl-pt/album/5MQBzs5YlZlE28mD9yUItn"  
+  },
+  {
+    "titulo": "Witness",
+    "artista": "Katy Perry",
+    "ano": 2017,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273e218a15176f2138d5359a444", 
+    "spotify": "https://open.spotify.com/intl-pt/album/0UlbGi4oAth8s6rwaGSU8Z"  
+  },
+  {
+    "titulo": "Smile",
+    "artista": "Katy Perry",
+    "ano": 2020,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2735ebe6cbd74a47a5e8ea88985", 
+    "spotify": "https://open.spotify.com/intl-pt/album/47zMF6LrXQ8odi6Xv1unC0"  
+  },
+  {
+    "titulo": "1432",
+    "artista": "Katy Perry",
+    "ano": 2024,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273ddac71a12622bdc7e9d3e795", 
+    "spotify": "https://open.spotify.com/intl-pt/album/5Xd0KCzb0EJtPbUEiyxYVH"  
+  },
+  {
+    "titulo": "Hot Fuss",
+    "artista": "The Killers",
+    "ano": 2004,
+    "capa": "https://i.scdn.co/image/ab67616d0000b27356a6d6e493a8f338be63fc49", 
+    "spotify": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+  },
+  {
+    "titulo": "Sam's Town",
+    "artista": "The Killers",
+    "ano": 2006,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2734f87f14089217e3f70a5f39e", 
+    "spotify": "https://open.spotify.com/intl-pt/album/4o3RJndRhHxkieQzQGhmbw"
+  },
+  {
+    "titulo": "Day & Age",
+    "artista": "The Killers",
+    "ano": 2008,
+    "capa": "https://i.scdn.co/image/ab67616d00001e02a43cd43ef4f3b2d5413b17f9", 
+    "spotify": "https://open.spotify.com/intl-pt/album/0Ug5scDXUIgGN8yanDBLQw"
+  },
+  {
+    "titulo": "Battle Born",
+    "artista": "The Killers",
+    "ano": 2012,
+    "capa": "https://i.scdn.co/image/ab67616d00001e02fb59f28dda0b84897533d808", 
+    "spotify": "https://open.spotify.com/intl-pt/album/6P6DYLagXUhE5Qq2l79Ef1"
+  },
+  {
+    "titulo": "Wonderful Wonderful",
+    "artista": "The Killers",
+    "ano": 2017,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273e7664a1deaefa43d6d7b1bb2",
+    "spotify": "https://open.spotify.com/intl-pt/album/5TMnKX3SaYXgYsmFuH8mxB"
+  },
+  {
+    "titulo": "Imploding the Mirage",
+    "artista": "The Killers",
+    "ano": 2020,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273f26061fad5a247b03ed2502e",
+    "spotify": "https://open.spotify.com/intl-pt/album/7CicJk8ELO3w5os2fr2LBQ"
+  },
+  {
+    "titulo": "Pressure Machine",
+    "artista": "The Killers",
+    "ano": 2021,
+    "capa": "https://i.scdn.co/image/ab67616d0000b273821b4532e68c92632277838b",
+    "spotify": "https://open.spotify.com/intl-pt/album/7j8a2kSxAtenkXPim6mwUB"
+  },
+  {
+    "titulo": "The Family Jewels",
+    "artista": "MARINA",
+    "ano": 2009,
+    "capa": "https://i.scdn.co/image/ab67616d0000b27336f6918170afcb7fe66130e5",
+    "spotify": "https://open.spotify.com/intl-pt/album/7vOnmHY4Ip2hL8iPfHIRBA"
+  },
+  {
+    "titulo": "Electra Heart",
+    "artista": "MARINA",
+    "ano": 2012,
+    "capa": "https://i.scdn.co/image/ab67616d00001e02203e4c6a048df02a21cdd813",
+    "spotify": "https://open.spotify.com/album/4iJ8dp0xkEhpy7aox8icUd"
+  },
+  {
+    "titulo": "Froot",
+    "artista": "MARINA",
+    "ano": 2015,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2731bbd2979b9ea26e0b546e5e5",
+    "spotify": "https://open.spotify.com/album/3TGFADcugVPngfF7dtiqqY"
+  },
+  {
+    "titulo": "Love + Fear",
+    "artista": "MARINA",
+    "ano": 2019,
+    "capa": "https://i.scdn.co/image/ab67616d0000b2731e838c3997685abe372238da",
+    "spotify": "https://open.spotify.com/album/0CUxS3KfHNuDpUUjbAewV3"
+  },
+  {
+    "titulo": "Ancient Dreams in a Modern Land",
+    "artista": "MARINA",
+    "ano": 2021,
+    "capa": "https://i.scdn.co/image/ab67616d0000b27336c95d8631f465e6898bccc8",
+    "spotify": "https://open.spotify.com/album/5fa6oWFXuvaVkY49mfOsRd"
+  },
+  {
+    "titulo": "Ancient Dreams in a Modern Land",
+    "artista": "MARINA",
+    "ano": 2025,
+    "capa": "https://i.scdn.co/image/ab67616d00001e02b35b1c4c5f6ed67295514ef9",
+    "spotify": "https://open.spotify.com/intl-pt/album/7KKQfFKPruJ3lHVVtwGuo7"
   }
 ]
